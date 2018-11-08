@@ -20,3 +20,20 @@ strong{
 .navbar-brand{
     height: auto;
 }
+.textarea
+{
+    width: 100%;
+    height: 200px;
+}
+.dir
+{
+    color: greenyellow;
+}
+.supDos
+{
+    color: red;
+}
+.supFic
+{
+    color: orange;
+}
